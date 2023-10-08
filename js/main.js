@@ -1,0 +1,1 @@
+!function(){const e=document.querySelector("#nav-btn"),c=(document.querySelector("#nav-list"),document.querySelector("#nav-wrapper")),n=document.querySelector("#nav-img");e.onclick=()=>{c.classList.toggle("open")?n.src="./img/NAV CLOSE.svg":n.src="./img/NAV.svg"},AOS.init({once:!0})}();
